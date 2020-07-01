@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ce5d2ce-9e25-49f2-953d-6720ae4056f1" name="Default Changelist" comment="" />
+    <list default="true" id="8ce5d2ce-9e25-49f2-953d-6720ae4056f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1_stack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1dsoKLx0CxLc8sXLqtlAs1DFEag" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -88,10 +98,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1165" y="561" key="#Notifications" timestamp="1593595889724">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1165" y="561" key="#Notifications/2560.360.1536.832/0.0.2560.1400@0.0.2560.1400" timestamp="1593595889724" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1593223177361">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593223177361" />
+    <state x="1101" y="600" key="Github.CreateGistDialog" timestamp="1593595931051">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1101" y="600" key="Github.CreateGistDialog/2560.360.1536.832/0.0.2560.1400@0.0.2560.1400" timestamp="1593595931051" />
+    <state x="1158" y="597" key="Github.ShareDialog" timestamp="1593595954075">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1158" y="597" key="Github.ShareDialog/2560.360.1536.832/0.0.2560.1400@0.0.2560.1400" timestamp="1593595954075" />
+    <state x="1091" y="404" key="Github.UntrackedFilesDialog" timestamp="1593595966094">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1091" y="404" key="Github.UntrackedFilesDialog/2560.360.1536.832/0.0.2560.1400@0.0.2560.1400" timestamp="1593595966094" />
     <state width="2539" height="399" key="GridCell.Tab.0.bottom" timestamp="1593398482577">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -112,5 +138,17 @@
     </state>
     <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593223291935" />
     <state width="2539" height="399" key="GridCell.Tab.0.right/2560.360.1536.832/0.0.2560.1400@0.0.2560.1400" timestamp="1593398482577" />
+    <state x="92" y="92" width="2376" height="1216" key="dock-window-1" timestamp="1593596243660">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="92" y="92" width="2376" height="1216" key="dock-window-1/2560.360.1536.832/0.0.2560.1400@0.0.2560.1400" timestamp="1593596243660" />
+    <state x="89" y="223" width="2376" height="1216" key="dock-window-2" timestamp="1593596243660">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="89" y="223" width="2376" height="1216" key="dock-window-2/2560.360.1536.832/0.0.2560.1400@0.0.2560.1400" timestamp="1593596243660" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1593595933840">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/2560.360.1536.832/0.0.2560.1400@0.0.2560.1400" timestamp="1593595933840" />
   </component>
 </project>
