@@ -8,6 +8,7 @@
 # input: "/usr/./bin/./test/../"
 # output: "/usr/bin/"
 
+
 def standardize(path):
     stack = []
     path = path.split("/")
@@ -26,6 +27,7 @@ def standardize(path):
             stack.append(segment)
 
     return "/".join(stack)
+
 
 input1 = "/usr/bin/../"
 input2 = "/usr/./bin/./test/../"
