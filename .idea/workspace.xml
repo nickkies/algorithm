@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ce5d2ce-9e25-49f2-953d-6720ae4056f1" name="Default Changelist" comment="find missing number">
+    <list default="true" id="8ce5d2ce-9e25-49f2-953d-6720ae4056f1" name="Default Changelist" comment="이진트리 안으 모든 단말노드의 갯수">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -166,6 +166,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -282,7 +283,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603156348205</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Array to balanced binary search tree">
+      <created>1603615041105</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1603615041105</updated>
+    </task>
+    <task id="LOCAL-00017" summary="이진트리 안으 모든 단말노드의 갯수">
+      <created>1604130375403</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1604130375403</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -311,7 +326,9 @@
     <MESSAGE value="recurse" />
     <MESSAGE value="find missing number" />
     <MESSAGE value="linkedList" />
-    <option name="LAST_COMMIT_MESSAGE" value="linkedList" />
+    <MESSAGE value="Array to balanced binary search tree" />
+    <MESSAGE value="이진트리 안으 모든 단말노드의 갯수" />
+    <option name="LAST_COMMIT_MESSAGE" value="이진트리 안으 모든 단말노드의 갯수" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1515" height="208" key="GridCell.Tab.0.bottom" timestamp="1602809962426">
@@ -330,11 +347,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602809962425" />
-    <state x="654" y="321" key="Vcs.Push.Dialog.v2" timestamp="1603156350632">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="523" y="254" key="Vcs.Push.Dialog.v2" timestamp="1604130378625">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="523" y="254" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603031002122" />
+    <state x="523" y="254" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604130378625" />
     <state x="654" y="321" key="Vcs.Push.Dialog.v2/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1603156350632" />
-    <state x="872" y="432" key="Vcs.Push.Dialog.v2/2560.360.1536.832/0.0.2560.1400@0.0.2560.1400" timestamp="1595211760111" />
   </component>
 </project>
