@@ -13,7 +13,7 @@ class Node:
 def getLeafNodeCount(node):
     if node is None:
         return 0
-    if (node.left is None and node.right is None):
+    if node.left is None and node.right is None:
         return 1
     else:
         return getLeafNodeCount(node.left) + getLeafNodeCount(node.right)
