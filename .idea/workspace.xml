@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ce5d2ce-9e25-49f2-953d-6720ae4056f1" name="Default Changelist" comment="이진트리 안으 모든 단말노드의 갯수">
+    <list default="true" id="8ce5d2ce-9e25-49f2-953d-6720ae4056f1" name="Default Changelist" comment="퀵솔트!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q15.getLeafNodeCount.py" beforeDir="false" afterPath="$PROJECT_DIR$/Q15.getLeafNodeCount.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +50,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Documents/webProgramming/Algorithm" />
   </component>
-  <component name="RunManager" selected="Python.Q12.findMissingNum">
+  <component name="RunManager" selected="Python.Q18.inTheMiddleOfTheList">
     <configuration name="Q12.findMissingNum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -73,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Q1_stack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Q18.inTheMiddleOfTheList" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,7 +84,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\KYS\PycharmProjects\algorithm\Q1_stack.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Q18.inTheMiddleOfTheList.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Q18.inTheMiddleOfTheList" />
         <item itemvalue="Python.Q12.findMissingNum" />
         <item itemvalue="Python.Q4_standardize" />
         <item itemvalue="Python.Q3_adjacentCharacters" />
         <item itemvalue="Python.Q2_impossibleSum" />
-        <item itemvalue="Python.Q1_stack" />
       </list>
     </recent_temporary>
   </component>
@@ -305,7 +304,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605442386357</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="수정">
+      <created>1605965006482</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1605965006482</updated>
+    </task>
+    <task id="LOCAL-00020" summary="퀵솔트!">
+      <created>1605973963548</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1605973963548</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -336,7 +349,9 @@
     <MESSAGE value="linkedList" />
     <MESSAGE value="Array to balanced binary search tree" />
     <MESSAGE value="이진트리 안으 모든 단말노드의 갯수" />
-    <option name="LAST_COMMIT_MESSAGE" value="이진트리 안으 모든 단말노드의 갯수" />
+    <MESSAGE value="수정" />
+    <MESSAGE value="퀵솔트!" />
+    <option name="LAST_COMMIT_MESSAGE" value="퀵솔트!" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1515" height="208" key="GridCell.Tab.0.bottom" timestamp="1602809962426">
@@ -355,10 +370,11 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602809962425" />
-    <state x="523" y="254" key="Vcs.Push.Dialog.v2" timestamp="1605442390836">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="654" y="321" key="Vcs.Push.Dialog.v2" timestamp="1605973966996">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="523" y="254" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605442390836" />
+    <state x="654" y="321" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605973966996" />
     <state x="654" y="321" key="Vcs.Push.Dialog.v2/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1603156350632" />
   </component>
 </project>
