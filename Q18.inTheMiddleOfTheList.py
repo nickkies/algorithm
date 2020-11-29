@@ -22,4 +22,4 @@ while fastPointer.next != None and fastPointer.next.next != None:
   fastPointer = fastPointer.next.next
   slowPointer = slowPointer.next
 
-print slowPointer.data
+#print slowPointer.data
