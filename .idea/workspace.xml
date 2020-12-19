@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ce5d2ce-9e25-49f2-953d-6720ae4056f1" name="Default Changelist" comment="중복">
+    <list default="true" id="8ce5d2ce-9e25-49f2-953d-6720ae4056f1" name="Default Changelist" comment="링크드리스트,,,,">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -339,7 +339,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607149162988</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="링크드리스트,,,,">
+      <created>1607777187973</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1607777187973</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -375,42 +382,7 @@
     <MESSAGE value="중간노드" />
     <MESSAGE value="연결리스트" />
     <MESSAGE value="중복" />
-    <option name="LAST_COMMIT_MESSAGE" value="중복" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="2539" height="395" key="GridCell.Tab.0.bottom" timestamp="1607063666477">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="1515" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602809962426" />
-    <state width="1882" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606653998317" />
-    <state width="2539" height="395" key="GridCell.Tab.0.bottom/2560.360.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1607063666477" />
-    <state width="2539" height="395" key="GridCell.Tab.0.center" timestamp="1607063666477">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="1515" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602809962425" />
-    <state width="1882" height="272" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606653998317" />
-    <state width="2539" height="395" key="GridCell.Tab.0.center/2560.360.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1607063666477" />
-    <state width="2539" height="395" key="GridCell.Tab.0.left" timestamp="1607063666477">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="1515" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602809962425" />
-    <state width="1882" height="272" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606653998315" />
-    <state width="2539" height="395" key="GridCell.Tab.0.left/2560.360.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1607063666477" />
-    <state width="2539" height="395" key="GridCell.Tab.0.right" timestamp="1607063666477">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="1515" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602809962425" />
-    <state width="1882" height="272" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606653998317" />
-    <state width="2539" height="395" key="GridCell.Tab.0.right/2560.360.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1607063666477" />
-    <state x="654" y="321" key="Vcs.Push.Dialog.v2" timestamp="1607149168048">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="523" y="254" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605442390836" />
-    <state x="654" y="321" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607149168048" />
-    <state x="654" y="321" key="Vcs.Push.Dialog.v2/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1603156350632" />
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1606653898150">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606653898150" />
+    <MESSAGE value="링크드리스트,,,," />
+    <option name="LAST_COMMIT_MESSAGE" value="링크드리스트,,,," />
   </component>
 </project>
