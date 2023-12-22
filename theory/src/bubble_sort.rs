@@ -24,7 +24,7 @@ mod tests {
         debug!("after: {v:?}");
     }
 
-    fn bubble_sort2(v: &mut Vec<usize>) {
+    fn bubble_sort2(v: &mut [usize]) {
         let len = v.len();
 
         debug!("before: {:?}", &v[0..10]);
@@ -42,11 +42,11 @@ mod tests {
 
     #[test]
     fn test_bubble_sort() {
-        let mut v = vec![1, 9, 3, 2];
+        let mut v = [1, 9, 3, 2];
 
         bubble_sort(&mut v);
 
-        assert_eq!(v, vec![1, 2, 3, 9]);
+        assert_eq!(v, [1, 2, 3, 9]);
     }
 
     #[test]
