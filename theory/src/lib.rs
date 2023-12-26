@@ -1,6 +1,6 @@
 mod bubble_sort;
 mod insertion_sort;
-mod reculsive;
+mod recursive;
 mod selection_sort;
 
 #[cfg(test)]
