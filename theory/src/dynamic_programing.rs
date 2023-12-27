@@ -13,14 +13,13 @@ mod tests {
             return 0;
         } else if n == 1 {
             return 1;
-        }
-
-        if let Some(val) = memo[n] {
+        } else if let Some(val) = memo[n] {
             return val;
         }
 
         let res = fibo_dynamic(n - 1, memo) + fibo_dynamic(n - 2, memo);
         memo[n] = Some(res);
+
         res
     }
 
