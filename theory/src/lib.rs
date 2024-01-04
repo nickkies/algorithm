@@ -1,3 +1,4 @@
+mod binary_search;
 mod bubble_sort;
 mod dynamic_programing;
 mod insertion_sort;
