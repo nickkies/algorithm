@@ -6,6 +6,7 @@ mod merge_sort;
 mod quick_sort;
 mod recursive;
 mod selection_sort;
+mod sequential_search;
 
 #[cfg(test)]
 mod tests {
