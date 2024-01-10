@@ -1,5 +1,6 @@
 mod binary_search;
 mod bubble_sort;
+mod dfs;
 mod dynamic_programing;
 mod insertion_sort;
 mod merge_sort;
