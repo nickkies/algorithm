@@ -2,7 +2,7 @@
 mod tests {
     use std::collections::{HashMap, HashSet, VecDeque};
 
-    fn dfs(graph: &HashMap<char, Vec<char>>, start_node: char) -> Vec<char> {
+    fn bfs(graph: &HashMap<char, Vec<char>>, start_node: char) -> Vec<char> {
         let mut visited = Vec::new();
         let mut need_visit = VecDeque::new();
 
@@ -20,7 +20,7 @@ mod tests {
         visited
     }
 
-    fn dfs_count(graph: &HashMap<char, Vec<char>>, start_node: char) -> usize {
+    fn bfs_count(graph: &HashMap<char, Vec<char>>, start_node: char) -> usize {
         let mut visited = HashSet::new();
         let mut need_visit = VecDeque::from([start_node]);
         let mut count: usize = 0;
@@ -38,7 +38,7 @@ mod tests {
     }
 
     #[test]
-    fn test_dfs() {
+    fn test_bfs() {
         let graph = HashMap::from([
             ('A', vec!['B', 'C']),
             ('B', vec!['A', 'D']),
@@ -53,10 +53,10 @@ mod tests {
         ]);
 
         assert_eq!(
-            dfs(&graph, 'A'),
+            bfs(&graph, 'A'),
             vec!['A', 'B', 'C', 'D', 'G', 'H', 'I', 'E', 'F', 'J']
         );
 
-        assert_eq!(dfs_count(&graph, 'A'), 19);
+        assert_eq!(bfs_count(&graph, 'A'), 19);
     }
 }
