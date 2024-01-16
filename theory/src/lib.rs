@@ -13,8 +13,13 @@ mod sequential_search;
 
 #[cfg(test)]
 mod tests {
+
     #[ctor::ctor]
     fn logger_init() {
+        if std::env::var_os("RUST_LOG").is_none() {
+            std::env::set_var("RUST_LOG", "debug");
+        }
+
         env_logger::init();
     }
 }
