@@ -2,6 +2,7 @@ mod bfs;
 mod binary_search;
 mod bubble_sort;
 mod dfs;
+mod dijkstra;
 mod dynamic_programing;
 mod greedy;
 mod insertion_sort;
