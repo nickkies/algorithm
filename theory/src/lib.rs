@@ -6,6 +6,7 @@ mod dijkstra;
 mod dynamic_programing;
 mod greedy;
 mod insertion_sort;
+mod kruskal;
 mod merge_sort;
 mod quick_sort;
 mod recursive;
