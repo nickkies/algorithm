@@ -8,6 +8,7 @@ mod greedy;
 mod insertion_sort;
 mod kruskal;
 mod merge_sort;
+mod prim;
 mod quick_sort;
 mod recursive;
 mod selection_sort;
