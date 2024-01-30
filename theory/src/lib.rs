@@ -1,3 +1,4 @@
+mod backtracking;
 mod bfs;
 mod binary_search;
 mod bubble_sort;
