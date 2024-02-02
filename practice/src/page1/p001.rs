@@ -1,4 +1,5 @@
-mod data_structure {
+#[cfg(test)]
+mod tests {
     /// 1부터 8까지 차례대로 라면 ascending,
     /// 8부터 1까지 차례대로 라면 descending,
     /// 둘 다 아니라면 mixed 이다.
