@@ -23,3 +23,4 @@ mod p022;
 mod p023;
 mod p024;
 mod p025;
+mod p026;
